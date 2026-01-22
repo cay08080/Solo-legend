@@ -1,0 +1,7 @@
+{
+  "name": "Lenda Solo RPG - Edição Imersiva",
+  "description": "Um RPG de mesa solo infinito onde a IA é o Mestre da Masmorra. Agora com narração emocional e combate dinâmico.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
